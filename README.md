@@ -1,0 +1,1 @@
+# student-management-project-mini
